@@ -4,13 +4,9 @@
 
 We are focused on fostering learning, networking and career development of AI enthusiasts and practitioners around Silicon Valley.
 
-👉[Join us](https://lu.ma/svgenai){:target="_blank"} to be notified of future events.
-
-✉️ : svgenai@gmail.com
-
-📽️ : [youtube.com/svgenai](https://www.youtube.com/@svgenai)
-
-<br clear="all">
+👉[Join us](https://lu.ma/svgenai){:target="_blank"} to be notified of future events.<br>
+✉️ : svgenai@gmail.com <br>
+📽️ : [videos](https://www.youtube.com/@svgenai)
 
 ## Organizers
 
