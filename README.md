@@ -4,9 +4,10 @@
 
 We are focused on fostering learning, networking and career development of AI enthusiasts and practitioners around Silicon Valley.
 
-#### 👉[Join us](https://lu.ma/svgenai){:target="_blank"} to be notified of future events.<br>
+#### 🗓️ [See upcoming events](https://lu.ma/svgenai){:target="_blank"}<br>
+👇[Scroll down for past events and recordings](#meetups) <br>
 ✉️  svgenai@gmail.com <br>
-📽️  [videos](https://www.youtube.com/@svgenai)
+📽️  [event recordings](https://www.youtube.com/@svgenai)
 
 ## Organizers
 
@@ -18,17 +19,15 @@ Head of community, IBM / The AI Alliance, Dev community organizer<br>
 AI DevRel Engineer @ Nebius,  AI+Data Engineer, Dev community organizer<br>
 [sujee.dev](https://sujee.dev/){:target="_blank"} &nbsp; •  &nbsp; [Linkedin](https://www.linkedin.com/in/sujeemaniyam/){:target="_blank"} &nbsp; •  &nbsp; [github](https://github.com/sujee/){:target="_blank"} &nbsp; •  &nbsp; [Twitter/X](https://x.com/sujee_dev/){:target="_blank"} &nbsp; •  &nbsp; [bsky](https://bsky.app/profile/sujee.dev){:target="_blank"}
 
-**John Varghese**<br>
+<!-- **John Varghese**<br>
 Principal Devops Engineer at DNAnexus, AWS Hero,  Dev community organizer<br>
-[Linkedin](https://www.linkedin.com/in/jvaws/){:target="_blank"}
+[Linkedin](https://www.linkedin.com/in/jvaws/){:target="_blank"} -->
 
 ## Contact Us
 
 Want to speak at our meetup (we are always looking for great speakers!) or sponsor us?
 
-Contact us via email  or one of our organizers above.
-
-✉️ : svgenai@gmail.com
+Contact us ✉️ : svgenai@gmail.com
 
 
 ## Meetups
