@@ -4,10 +4,11 @@
 
 We are focused on fostering learning, networking and career development of AI enthusiasts and practitioners around Silicon Valley.
 
-#### 🗓️ [Event calendar](https://lu.ma/svgenai){:target="_blank"}<br>
+#### 🗓️ [Event calendar](https://lu.ma/svgenai){:target="_blank"}
+
 👆 subscribe to be notified
 
-👇[Scroll down for past events and recordings](#meetups) <br>
+### [Past Events](events/README.md)
 
 ✉️  svgenai@gmail.com <br>
 
@@ -39,14 +40,6 @@ We are focused on fostering learning, networking and career development of AI en
 
 ---
 
-## Meetups
-
-
-
-| Date       | Location   | Topics | Link |
-|------------|------------|-------|------|
-|  2025 Jun 26          |    Fremont, CA        |  Langflow, MCP      |   [link](meetups/2025-06-26.md)   |
-|  2025 May 01          |    San Jose, CA        |  AI Powered Engineer      |      |
 
 
 
