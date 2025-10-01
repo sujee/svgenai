@@ -4,13 +4,9 @@
 
 We are focused on fostering learning, networking and career development of AI enthusiasts and practitioners around Silicon Valley.
 
-### 🗓️ [Event calendar](https://lu.ma/svgenai){:target="_blank"}
+### ✨ [Past Events](events/README.md): View recordings + slides
 
-👆 subscribe to be notified
-
-### [Past Events](events/README.md)
-
-Access recordings + slides + code
+### 🗓️ [Event calendar](https://lu.ma/svgenai){:target="_blank"} :  subscribe to be notified
 
 ✉️  svgenai@gmail.com
 
